@@ -14,7 +14,8 @@ const noMessages = [
     "Me estabas cuenteando... 🥺",
     "Dijiste que andariamos de la mano! 😒",
     "El boton verde es mas bonito... 😢",
-    "No podras atrapar el boton de todos modos jaja 😜"
+    "Si lo se, soy un ocioso jajaja",
+    "No podras atrapar el boton de todos modos 😜"
 ]
 
 const yesTeasePokes = [
