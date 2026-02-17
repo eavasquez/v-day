@@ -14,7 +14,7 @@ const noMessages = [
     "Me estabas cuenteando... 🥺",
     "Dijiste que andariamos de la mano! 😒",
     "El boton verde es mas bonito... 😢",
-    "Si lo se, soy un ocioso jajaja",
+    "Y si te presto mi oreja? 🫰",
     "No podras atrapar el boton de todos modos 😜"
 ]
 
@@ -22,7 +22,7 @@ const yesTeasePokes = [
     "Agradezco que digas si, pero estas segura? 😏",
     "Quizas debas poner que no 👀",
     "Que porfiada Josefa 😘",
-    "Si ya entendi que si, pero el boton rojo esta entrenido jaja 😏"
+    "Si ya entendi que si, pero el boton rojo esta entretenido jaja 😏"
 ]
 
 let yesTeasedCount = 0
